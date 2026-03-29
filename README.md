@@ -1,5 +1,5 @@
 # simple-passwords-manager
-# Simple Password Manager (Beta v0.1)
+# Simple Password Manager (Beta)
 
 A simple and lightweight Python-based password manager for console use. It allows you to quickly save passwords to a local file and view them when needed.
 
