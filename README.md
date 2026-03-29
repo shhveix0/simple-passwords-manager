@@ -17,3 +17,5 @@ A simple and lightweight Python-based password manager for console use. It allow
 4. Run the program:
    ```bash
    python manager.py
+
+## Or download release
